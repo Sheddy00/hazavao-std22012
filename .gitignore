@@ -40,5 +40,4 @@ out/
 **.toml
 
 ### Mac OS ###
-.DS_Storesrc/main/resources/application.properties
-#src/main/resources/application.properties
+.DS_Store
